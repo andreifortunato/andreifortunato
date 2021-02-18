@@ -20,7 +20,7 @@
 <!--
 **andreifortunato/andreifortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.mp4" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/source.gif" />
 
 Here are some ideas to get you started:
 

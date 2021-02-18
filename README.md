@@ -22,11 +22,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-<a src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-<a src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<a src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<a src="https://img.icons8.com/color/48/000000/python.png"/>
-<a src="https://img.icons8.com/color/48/000000/django.png"/>
+- 
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://img.icons8.com/color/48/000000/bitbucket.png"/>
+<a src="https://img.icons8.com/color/48/000000/bitbucket.png"/></a>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -18,7 +18,7 @@
 <br />
 
 <details>
-<iframe src="https://giphy.com/embed/l2JdTkHW1KZPdvdS0" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-15-the-simpsons-15x5-l2JdTkHW1KZPdvdS0">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l2JdTkHW1KZPdvdS0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-15-the-simpsons-15x5-l2JdTkHW1KZPdvdS0">via GIPHY</a></p>
   
   </details>
 

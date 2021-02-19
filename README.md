@@ -1,7 +1,10 @@
 ### Welcome to my repository 👋
 ## Andrei Fortunato
 
+
+
 ![Alt Text](https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif)
+
 
 
 <a href="https://www.linkedin.com/in/andreifortunato/">
@@ -21,7 +24,7 @@
 <br />
 
 
-Here are some ideas to get you started:
+
 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>

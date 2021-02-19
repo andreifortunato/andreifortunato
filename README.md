@@ -1,6 +1,8 @@
 ### Welcome to my repository 👋
 ## Andrei Fortunato
 
+![Alt Text](https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif)
+
 
 <a href="https://www.linkedin.com/in/andreifortunato/">
   <img align="left" alt="Andrei's LinkdeIN" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

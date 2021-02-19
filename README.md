@@ -23,8 +23,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
@@ -41,14 +39,7 @@ Here are some ideas to get you started:
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://img.icons8.com/color/48/000000/bitbucket.png"/></a>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreifortunato&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreifortunato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

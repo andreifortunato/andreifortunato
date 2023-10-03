@@ -30,7 +30,8 @@
   &nbsp;
 <br/>
   <h2>My Skills</h2>
-<img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
+<img style="width: 2rem;" src="https://icons8.com/icon/55251/c-sharp-logo" />
+<img style="width: 2rem;" src="https://icons8.com/icon/1BC75jFEBED6/.net-framework" />
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/python.png"/>

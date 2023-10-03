@@ -30,8 +30,8 @@
   &nbsp;
 <br/>
   <h2>My Skills</h2>
-<img style="width: 2rem;" src="https://icons8.com/icon/55251/c-sharp-logo" />
-<img style="width: 2rem;" src="https://icons8.com/icon/1BC75jFEBED6/.net-framework" />
+<img style="width: 2rem;" src=![image](https://github.com/andreifortunato/andreifortunato/assets/54864576/00318ffe-e05a-4943-9221-70796ddd326c)/>
+<img style="width: 2rem;" src=![image](https://github.com/andreifortunato/andreifortunato/assets/54864576/a10ff4e0-2990-46c4-a30f-c2c03804d083)/>
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img style="width: 2rem;" src="https://img.icons8.com/color/48/000000/python.png"/>
